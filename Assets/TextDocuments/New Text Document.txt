@@ -1,0 +1,2 @@
+NPC1: Can you help me?
+Player: Yes, No
